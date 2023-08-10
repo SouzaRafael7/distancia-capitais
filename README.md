@@ -24,9 +24,9 @@ Porto Alegre,
 Porto Velho, 
 Recife, 
 Rio Branco,
-Rio de Janeiro
-Salvador
-São Luís
-São Paulo
-Teresina
-Vitória
+Rio de Janeiro, 
+Salvador, 
+São Luís, 
+São Paulo, 
+Teresina, 
+Vitória, 
